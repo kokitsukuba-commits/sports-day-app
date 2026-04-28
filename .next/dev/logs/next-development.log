@@ -1,0 +1,24 @@
+{"timestamp":"00:00:09.556","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:28.556","source":"Server","level":"LOG","message":"○ Compiling / ..."}
+{"timestamp":"00:00:37.404","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:00:43.416","source":"Browser","level":"WARN","message":"Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\"smooth\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior"}
+{"timestamp":"00:00:43.494","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mDetected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\\\"smooth\\\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior\\u001b[39m\" \"\\u001b[2m(file://C:/Users/miyam_my90md4/OneDrive/デスクトップ/Documentsdevsports_day_app/sports-day-app/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)\\u001b[22m\""}
+{"timestamp":"00:00:43.495","source":"Browser","level":"WARN","message":"\u001b[33mDetected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\"smooth\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior\u001b[39m"}
+{"timestamp":"00:04:13.023","source":"Server","level":"LOG","message":"✓ Compiled in 283ms"}
+{"timestamp":"00:04:17.838","source":"Server","level":"LOG","message":"✓ Compiled in 101ms"}
+{"timestamp":"00:05:00.266","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:05:17.587","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mDetected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\\\"smooth\\\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior\\u001b[39m\" \"\\u001b[2m(file://C:/Users/miyam_my90md4/OneDrive/デスクトップ/Documentsdevsports_day_app/sports-day-app/.next/dev/static/chunks/node_modules_next_dist_115brz8._.js:2431:13)\\u001b[22m\""}
+{"timestamp":"00:05:17.588","source":"Browser","level":"WARN","message":"\u001b[33mDetected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\"smooth\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior\u001b[39m"}
+{"timestamp":"00:05:17.589","source":"Browser","level":"WARN","message":"Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\"smooth\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior"}
+{"timestamp":"00:10:09.510","source":"Server","level":"LOG","message":"✓ Compiled in 1470ms"}
+{"timestamp":"00:10:22.923","source":"Server","level":"LOG","message":"✓ Compiled in 64ms"}
+{"timestamp":"00:11:10.843","source":"Server","level":"LOG","message":"✓ Compiled in 118ms"}
+{"timestamp":"00:11:19.929","source":"Server","level":"LOG","message":"✓ Compiled in 246ms"}
+{"timestamp":"00:11:41.921","source":"Server","level":"LOG","message":"✓ Compiled in 61ms"}
+{"timestamp":"00:12:06.369","source":"Server","level":"LOG","message":"✓ Compiled in 86ms"}
+{"timestamp":"00:12:33.359","source":"Server","level":"LOG","message":"✓ Compiled in 36ms"}
+{"timestamp":"00:12:57.666","source":"Server","level":"LOG","message":"✓ Compiled in 95ms"}
+{"timestamp":"00:13:14.307","source":"Server","level":"LOG","message":"✓ Compiled in 36ms"}
+{"timestamp":"00:13:27.622","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:18:42.769","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:18:43.987","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
